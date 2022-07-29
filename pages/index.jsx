@@ -40,7 +40,7 @@ Merhaba! Ben Helixo Genelde Python ile kod yazıyorum, discord botları kodluyor
               
             </div>
             <br></br>
-            <span style={{ zIndex: '-1' }} className="text-white/5 absolute bottom-3 left-7 text-xl sm:text-2xl md:text-4xl lg:text-3xl font-semibold">Community Manager</span>
+            <span style={{ zIndex: '-1' }} className="text-white/5 absolute bottom-3 left-7 text-xl sm:text-2xl md:text-4xl lg:text-3xl font-semibold">Developer</span>
           </div>
       </div>
 
