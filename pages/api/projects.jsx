@@ -2,27 +2,27 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/737348411568685066/954502826791428136/codeshare_logo.png",
-      name: "Code Shop",
+      image: "https://media.discordapp.net/attachments/954816907054288896/1002581312210735194/standard_12.gif",
+      name: "Helixo Gifts",
       description:
-        "Publish your own software or images for free or for a fee. Earn money.",
-      link: "https://codeshare.xyz",
+        "Ucuz, gerçek ve kaliteli discord rewards sunucusu.",
+      link: "https://discord.gg/WBEQUpfZU6",
     },
     {
       id: 2,
-      image: "https://media.discordapp.net/attachments/737348411568685066/999563078079361074/YT_AVATAR_NET.jpg",
-      name: "Youtube",
+      image: "https://media.discordapp.net/attachments/954816907054288896/1002581459812483183/a341d542b2d2db55fc65aa835dbb3d83.png",
+      name: "Boş",
       description:
-        "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
-      link: "https://youtube.com/UmutBayraktarYT",
+        "Boş",
+      link: "",
     },
      {
       id: 3,
-      image: "https://caoscrew.com/assets/images/team/KK.jpg",
-      name: "Caos Crew",
+      image: "https://media.discordapp.net/attachments/954816907054288896/1002581459812483183/a341d542b2d2db55fc65aa835dbb3d83.png",
+      name: "Boş",
       description:
-        "A magnificent and valuable nft collection of 8888 pieces.",
-      link: "https://caoscrew.com/",
+        "",
+      link: "",
     }
   ];
   res.status(200).json(data);
