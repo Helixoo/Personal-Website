@@ -1,7 +1,7 @@
 const fetch = require('isomorphic-unfetch')
 
-let key1 = '';
-let key2 = '';
+let key1 = 'ghp_8nnTc9fKgUFHo0XX';
+let key2 = 'cPvCHsObPi5luU2XsxaG';
 
 export default async (req, res) => {
     let _ = await (await fetch('https://api.github.com/users/helixoo/repos', {
